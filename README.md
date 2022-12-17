@@ -1,16 +1,9 @@
-# basic_calculator
+# Magical-Dice
 
-A new Flutter project.
+Download this .apk file and be a king in ludo game by getting a 'Six' on Demand.
+Actually I added a hidden button which is just below the "Roll Me" Elevated Button.
 
-## Getting Started
+Each time whenever you presses the that hidden button u will get 6.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# ScreenShots
+![Calculator-1](https://github.com/deepi-badshah/Calculator/blob/main/S3.png?raw=true)
